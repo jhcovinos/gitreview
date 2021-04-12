@@ -1,18 +1,18 @@
 h1 {
     font-size: 45px;
-    color: #000;
+    color: rgb(173, 30, 126);
     font-family: 'Open Sans';
     }
 
 h2 {
     font-size: 36px;
-    color: #000;
+    color: rgb(45, 23, 167);
     font-family: 'Open Sans';
     }
 
 .menu {
-    background-color: #ccc;
-    color: #fff;
+    background-color: rgb(205, 218, 31);
+    color: rgb(21, 151, 134);
     width: 100px;
     padding: 20px;
     border: 1px solid #000;

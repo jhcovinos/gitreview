@@ -1,0 +1,41 @@
+h1 {
+    font-size: 45px;
+    color: #000;
+    font-family: 'Open Sans';
+    }
+
+h2 {
+    font-size: 36px;
+    color: #000;
+    font-family: 'Open Sans';
+    }
+
+.menu {
+    background-color: #ccc;
+    color: #fff;
+    width: 100px;
+    padding: 20px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    }
+p {
+    font-family: 'Open Sans';
+    font-size: 14px;
+    color: rgb(148, 58, 58);
+    line-height: 18px;
+    margin-bottom: 20px;
+    }
+
+.mienlace{
+    top: 50%;
+    color: rgb(30, 170, 42);
+    font-family: 'Open Sans';
+    -webkit-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+html, 
+body {
+    height: 100%;
+}
